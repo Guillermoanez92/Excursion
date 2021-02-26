@@ -1,7 +1,13 @@
 /*Universal Styles*/
 
 body {
-	background-color: black;
+	background-color: #000;
 	text-align: center;
 	font-family: Verdana , sans-serif;
+}
+
+header {
+	color: #fff;
+	font-weight: normal;
+	font-sizee: 50px;
 }
