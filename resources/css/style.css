@@ -11,3 +11,9 @@ header {
 	font-weight: normal;
 	font-sizee: 50px;
 }
+
+.link p {
+	color: aquamarine;
+	font-size: 16px;
+	text-decoration: none;
+}
