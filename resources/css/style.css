@@ -7,10 +7,24 @@ body {
 }
 
 /* Headings */
-.headings {
+.heading--main {
 	color: #fff;
 	font-weight: normal;
 	font-sizee: 50px;
+}
+
+.heading--secondary {
+	font-weight: 300;
+	font-size: 42px;
+	color: #fff;
+
+}
+
+.subheader {
+	font-size: 21px;
+	color: gray;
+	font-weight: normal;
+	
 }
 
 /* Link */
@@ -22,4 +36,3 @@ body {
 
 /* Video Section */
 
-/*Sub Headings */
