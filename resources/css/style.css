@@ -6,12 +6,14 @@ body {
 	font-family: Verdana , sans-serif;
 }
 
-/* Header */
-header {
+/* Headings */
+.headings {
 	color: #fff;
 	font-weight: normal;
 	font-sizee: 50px;
 }
+
+/* Link */
 .link {
 	color: aquamarine;
 	font-size: 16px;
@@ -20,4 +22,4 @@ header {
 
 /* Video Section */
 
-/* Content Section */
+/*Sub Headings */
